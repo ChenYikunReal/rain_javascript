@@ -1,2 +1,3 @@
-# rain_javascript
-黑客帝国字符雨模仿-[HTML+CSS+JavaScript]实现
+# 黑客帝国字符雨网页模仿
+
+![](字符雨示例.PNG)
